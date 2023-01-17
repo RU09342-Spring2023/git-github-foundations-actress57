@@ -1,6 +1,5 @@
 # :wave: The Basics of GitHub
 
-# Gianna Brock
 
 ## 🤓 Course overview and learning outcomes 
 
